@@ -1,5 +1,5 @@
 {
-	"outdir": ".",
+	"outdir": "/usr/share/nginx/html",
 	"clientID": "754a8001-a127-4558-a18e-b6a0dac04aa1",
 	"mapping": {
 		"us": "72.229.28.185",
